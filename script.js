@@ -1,7 +1,7 @@
     let formulario = document.querySelector(".fale-conosco")
     let mascara = document.querySelector(".mascara-form")
     let audioFaleConosco = document.querySelector("fale-conocsco-audio")
-    let audioEnviaForm = document.querySelector("enviar-form")
+    let audioEnviarForm = document.querySelector("enviar-form")
 
 
     function cliqueiNoBotao() {
