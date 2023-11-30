@@ -1,6 +1,6 @@
 <h1 align="center"> Mario e Luigi </h1>
 
-<img  src="https://github.com/gaby-mvi/Site-Mario/blob/master/mario.png?raw=true" align="left" height="400px">
+<img  src="https://github.com/gaby-mvi/Site-Mario/blob/master/assets/mario.png?raw=true" align="left" height="400px">
 <br>
 
 ## Sobre o projeto
